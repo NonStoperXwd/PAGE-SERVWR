@@ -167,8 +167,8 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️ʙʟᴀᴄᴋ.ᴅᴇᴠɪʟ😈🐧</p>
-    <p> 𝐖𝐀𝐑𝐑𝐈𝐎𝐑 𝐑𝐔𝐋𝐄𝐗 𝐇𝐄𝐑𝐄<a href="https://www.facebook.com/Huntwr-Alone-xwd">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️ʜᴜɴᴛᴀʀ.ʙᴏʏ😈🐧</p>
+    <p> ʜᴜɴᴛᴀʀ ʙᴏʏ 𝐇𝐄𝐑𝐄<a href="https://www.facebook.com/AL9NE.ST9ND.B0Y.H9NT4R.H3R4?mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+923272458382" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
